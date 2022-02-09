@@ -4,8 +4,9 @@
 # META4Live #
 
 
-[Objects](https://bitbucket.org/AdrianArtacho/workspace/projects/META) within the *TESSER* environment 
-are designed for real-time interaction. This environement is developed and mantained by 
+[Objects](https://bitbucket.org/AdrianArtacho/workspace/projects/META) within the 
+*META* provide a live performance workflow
+for Ablenton Live. This environement is developed and mantained by 
 [Adrian Artacho](http://www.artacho.at/).
 
 
