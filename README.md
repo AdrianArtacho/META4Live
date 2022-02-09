@@ -1,29 +1,11 @@
-# README #
+![META_logo](https://docs.google.com/drawings/d/e/2PACX-1vSY2rUq78MCWOJKLc1IkDhACb-LjR0oa5WKgdwjdjOujIbOCkmQ4_LtBoEWX8Qm9ZqJQCMElsiRMlvA/pub?w=374&h=366)
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
+# TesserAkt #
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+[Objects](https://bitbucket.org/AdrianArtacho/workspace/projects/META) within the *TESSER* environment 
+are designed for real-time interaction. This environement is developed and mantained by 
+[Adrian Artacho](http://www.artacho.at/).
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
