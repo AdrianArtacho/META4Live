@@ -1,4 +1,4 @@
-![META_logo](https://bitbucket.org/AdrianArtacho/meta4live/src/master/META_logo.png)
+![META_logo](https://bitbucket.org/AdrianArtacho/meta4live/raw/HEAD/META_logo.png)
 
 
 # META4Live #
