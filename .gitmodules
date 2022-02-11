@@ -1,0 +1,42 @@
+[submodule "CCencoder"]
+	path = CCencoder
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/cc-encoder.git
+[submodule "Cue"]
+	path = Cue
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_cue.git
+[submodule "Display"]
+	path = Display
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_display.git
+[submodule "Keys"]
+	path = Keys
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_keys.git
+[submodule "Knob"]
+	path = Knob
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_knob.git
+[submodule "Knobhub"]
+	path = Knobhub
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_knobhub.git
+[submodule "Launcher"]
+	path = Launcher
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_launcher.git
+[submodule "Nano"]
+	path = Nano
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_nano.git
+[submodule "Pages"]
+	path = Pages
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_pages.git
+[submodule "Reaktor"]
+	path = Reaktor
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_reaktor.git
+[submodule "Scene"]
+	path = Scene
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_scene.git
+[submodule "Tempo"]
+	path = Tempo
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_tempo.git
+[submodule "Timer"]
+	path = Timer
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_timer.git
+[submodule "CCdecoder"]
+	path = CCdecoder
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/cc-decoder.git
