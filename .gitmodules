@@ -40,3 +40,6 @@
 [submodule "meta_tempo"]
 	path = meta_tempo
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_tempo.git
+[submodule "meta_timer"]
+	path = meta_timer
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_timer.git
