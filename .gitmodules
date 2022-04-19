@@ -40,3 +40,6 @@
 [submodule "meta_pages"]
 	path = meta_pages
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_pages.git
+[submodule "meta_reaktor"]
+	path = meta_reaktor
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_reaktor.git
