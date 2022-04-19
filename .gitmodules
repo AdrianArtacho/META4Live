@@ -1,6 +1,3 @@
-[submodule "Pages"]
-	path = Pages
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_pages.git
 [submodule "Reaktor"]
 	path = Reaktor
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_reaktor.git
