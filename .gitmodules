@@ -37,9 +37,6 @@
 [submodule "Timer"]
 	path = Timer
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_timer.git
-[submodule "CCdecoder"]
-	path = CCdecoder
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/cc-decoder.git
 [submodule "Notes"]
 	path = Notes
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_notes.git
