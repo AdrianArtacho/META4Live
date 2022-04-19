@@ -40,3 +40,6 @@
 [submodule "meta_notes"]
 	path = meta_notes
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_notes.git
+[submodule "meta_pages"]
+	path = meta_pages
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_pages.git
