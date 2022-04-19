@@ -1,6 +1,3 @@
-[submodule "Display"]
-	path = Display
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_display.git
 [submodule "Keys"]
 	path = Keys
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_keys.git
