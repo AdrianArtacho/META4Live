@@ -40,3 +40,6 @@
 [submodule "meta_reaktor"]
 	path = meta_reaktor
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_reaktor.git
+[submodule "meta_scene"]
+	path = meta_scene
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_scene.git
