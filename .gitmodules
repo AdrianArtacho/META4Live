@@ -40,3 +40,6 @@
 [submodule "meta_knob"]
 	path = meta_knob
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_knob.git
+[submodule "meta_knobhub"]
+	path = meta_knobhub
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_knobhub.git
