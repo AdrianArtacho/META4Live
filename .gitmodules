@@ -40,3 +40,6 @@
 [submodule "meta_scene"]
 	path = meta_scene
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_scene.git
+[submodule "meta_tempo"]
+	path = meta_tempo
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_tempo.git
