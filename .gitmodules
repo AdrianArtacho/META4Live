@@ -1,6 +1,3 @@
-[submodule "CCencoder"]
-	path = CCencoder
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/cc-encoder.git
 [submodule "Cue"]
 	path = Cue
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_cue.git
