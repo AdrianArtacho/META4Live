@@ -40,3 +40,6 @@
 [submodule "meta_launcher"]
 	path = meta_launcher
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_launcher.git
+[submodule "meta_nano"]
+	path = meta_nano
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_nano.git
