@@ -52,3 +52,6 @@
 [submodule "meta_link"]
 	path = meta_link
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_link.git
+[submodule "meta_toggle"]
+	path = meta_toggle
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_toggle.git
