@@ -55,3 +55,6 @@
 [submodule "meta_toggle"]
 	path = meta_toggle
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_toggle.git
+[submodule "meta_switch"]
+	path = meta_switch
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_switch.git
