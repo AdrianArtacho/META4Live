@@ -64,3 +64,6 @@
 [submodule "meta_pedals"]
 	path = meta_pedals
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_pedals.git
+[submodule "meta_fetch"]
+	path = meta_fetch
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_fetch.git
