@@ -67,3 +67,6 @@
 [submodule "meta_fetch"]
 	path = meta_fetch
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_fetch.git
+[submodule "meta_wrench"]
+	path = meta_wrench
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_wrench.git
