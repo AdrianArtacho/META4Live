@@ -73,3 +73,6 @@
 [submodule "meta_ecosia"]
 	path = meta_ecosia
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_ecosia.git
+[submodule "meta_cheatsheet"]
+	path = meta_cheatsheet
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_cheatsheet.git
