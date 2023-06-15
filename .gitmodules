@@ -76,3 +76,6 @@
 [submodule "meta_cheatsheet"]
 	path = meta_cheatsheet
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_cheatsheet.git
+[submodule "meta_focus"]
+	path = meta_focus
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_focus.git
