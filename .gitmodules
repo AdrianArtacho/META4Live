@@ -82,3 +82,6 @@
 [submodule "meta_push"]
 	path = meta_push
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_push.git
+[submodule "meta_touch"]
+	path = meta_touch
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_touch.git
