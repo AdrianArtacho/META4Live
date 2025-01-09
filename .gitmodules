@@ -85,3 +85,6 @@
 [submodule "meta_touch"]
 	path = meta_touch
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_touch.git
+[submodule "META_pointer"]
+	path = META_pointer
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_pointer.git
