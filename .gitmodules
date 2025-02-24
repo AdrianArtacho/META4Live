@@ -91,3 +91,6 @@
 [submodule "bend2CC"]
 	path = bend2CC
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/bend2cc.git
+[submodule "CC2switch"]
+	path = CC2switch
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/cc2switch.git
