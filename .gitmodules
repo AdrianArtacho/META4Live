@@ -88,3 +88,6 @@
 [submodule "META_pointer"]
 	path = META_pointer
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_pointer.git
+[submodule "bend2CC"]
+	path = bend2CC
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/bend2cc.git
