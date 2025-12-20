@@ -69,7 +69,7 @@ url=https://github.com/AdrianArtacho/META_switch.git
 url=https://github.com/AdrianArtacho/META_fetch.git
 [submodule "meta_tab"]
 	path = meta_tab
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_tab.git
+	url = https://github.com/AdrianArtacho/META_Tab.git
 [submodule "meta_ecosia"]
 	path = meta_ecosia
 url=https://github.com/AdrianArtacho/META_ecosia.git
