@@ -39,7 +39,7 @@ url=https://github.com/AdrianArtacho/META_reaktor.git
 url=https://github.com/AdrianArtacho/META_scene.git
 [submodule "meta_tempo"]
 	path = meta_tempo
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_tempo.git
+url=https://github.com/AdrianArtacho/META_tempo.git
 [submodule "meta_timer"]
 	path = meta_timer
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_timer.git
@@ -143,3 +143,5 @@ url=https://github.com/AdrianArtacho/cc2switch.git
 	url = https://github.com/AdrianArtacho/META_switch.git
 [submodule "META_tempo"]
 	url = https://github.com/AdrianArtacho/META_tempo.git
+[submodule "META_timer"]
+	url = https://github.com/AdrianArtacho/META_timer.git
