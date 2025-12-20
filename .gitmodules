@@ -87,7 +87,7 @@ url=https://github.com/AdrianArtacho/META_focus.git
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_touch.git
 [submodule "META_pointer"]
 	path = META_pointer
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_pointer.git
+	url = https://github.com/AdrianArtacho/META_pointer.git
 [submodule "bend2CC"]
 	path = bend2CC
 	url = https://github.com/AdrianArtacho/bend2CC.git
