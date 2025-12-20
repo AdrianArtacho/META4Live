@@ -149,3 +149,6 @@ url=https://github.com/AdrianArtacho/cc2switch.git
 	url = https://github.com/AdrianArtacho/META_toggle.git
 [submodule "META_touch"]
 	url = https://github.com/AdrianArtacho/META_touch.git
+[submodule "meta_stop"]
+	path = meta_stop
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_stop.git
