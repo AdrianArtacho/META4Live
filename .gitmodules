@@ -154,4 +154,4 @@ url=https://github.com/AdrianArtacho/cc2switch.git
 	url = https://github.com/AdrianArtacho/meta_stop.git
 [submodule "meta_locators"]
 	path = meta_locators
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_locators.git
+	url = https://github.com/AdrianArtacho/meta_locators.git
