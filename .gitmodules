@@ -24,7 +24,7 @@ url=https://github.com/AdrianArtacho/META_knobhub.git
 url=https://github.com/AdrianArtacho/META_launcher.git
 [submodule "meta_nano"]
 	path = meta_nano
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_nano.git
+url=https://github.com/AdrianArtacho/META_nano.git
 [submodule "meta_notes"]
 	path = meta_notes
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_notes.git
