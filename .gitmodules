@@ -21,7 +21,7 @@ url=https://github.com/AdrianArtacho/META_knob.git
 url=https://github.com/AdrianArtacho/META_knobhub.git
 [submodule "meta_launcher"]
 	path = meta_launcher
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_launcher.git
+url=https://github.com/AdrianArtacho/META_launcher.git
 [submodule "meta_nano"]
 	path = meta_nano
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_nano.git
@@ -125,3 +125,5 @@ url=https://github.com/AdrianArtacho/cc2switch.git
 	url = https://github.com/AdrianArtacho/META_knobhub.git
 [submodule "META_launcher"]
 	url = https://github.com/AdrianArtacho/META_launcher.git
+[submodule "META_link"]
+	url = https://github.com/AdrianArtacho/META_link.git
