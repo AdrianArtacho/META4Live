@@ -51,7 +51,7 @@ url=https://github.com/AdrianArtacho/META_checklist.git
 url=https://github.com/AdrianArtacho/META_apckey25.git
 [submodule "meta_link"]
 	path = meta_link
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_link.git
+url=https://github.com/AdrianArtacho/META_link.git
 [submodule "meta_toggle"]
 	path = meta_toggle
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_toggle.git
