@@ -97,3 +97,5 @@ url=https://github.com/AdrianArtacho/cc2switch.git
 [submodule "meta_panswap"]
 	path = meta_panswap
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_panswap.git
+[submodule "CC-Decoder"]
+	url = https://github.com/AdrianArtacho/CC-Decoder.git
