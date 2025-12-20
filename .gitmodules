@@ -18,7 +18,7 @@ url=https://github.com/AdrianArtacho/META_keys.git
 url=https://github.com/AdrianArtacho/META_knob.git
 [submodule "meta_knobhub"]
 	path = meta_knobhub
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_knobhub.git
+url=https://github.com/AdrianArtacho/META_knobhub.git
 [submodule "meta_launcher"]
 	path = meta_launcher
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_launcher.git
