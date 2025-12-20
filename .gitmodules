@@ -137,3 +137,5 @@ url=https://github.com/AdrianArtacho/cc2switch.git
 	url = https://github.com/AdrianArtacho/META_push.git
 [submodule "META_reaktor"]
 	url = https://github.com/AdrianArtacho/META_reaktor.git
+[submodule "META_scene"]
+	url = https://github.com/AdrianArtacho/META_scene.git
