@@ -81,7 +81,7 @@ url=https://github.com/AdrianArtacho/META_cheatsheet.git
 url=https://github.com/AdrianArtacho/META_focus.git
 [submodule "meta_push"]
 	path = meta_push
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_push.git
+url=https://github.com/AdrianArtacho/META_push.git
 [submodule "meta_touch"]
 	path = meta_touch
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_touch.git
