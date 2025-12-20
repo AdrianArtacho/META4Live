@@ -27,7 +27,7 @@ url=https://github.com/AdrianArtacho/META_launcher.git
 url=https://github.com/AdrianArtacho/META_nano.git
 [submodule "meta_notes"]
 	path = meta_notes
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_notes.git
+url=https://github.com/AdrianArtacho/META_notes.git
 [submodule "meta_pages"]
 	path = meta_pages
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_pages.git
