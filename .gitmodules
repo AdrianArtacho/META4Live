@@ -30,7 +30,7 @@ url=https://github.com/AdrianArtacho/META_nano.git
 url=https://github.com/AdrianArtacho/META_notes.git
 [submodule "meta_pages"]
 	path = meta_pages
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_pages.git
+url=https://github.com/AdrianArtacho/META_pages.git
 [submodule "meta_reaktor"]
 	path = meta_reaktor
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_reaktor.git
