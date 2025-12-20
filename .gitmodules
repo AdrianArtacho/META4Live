@@ -6,7 +6,7 @@ url=https://github.com/AdrianArtacho/CC-Decoder.git
 url=https://github.com/AdrianArtacho/CC-Encoder.git
 [submodule "meta_cue"]
 	path = meta_cue
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_cue.git
+url=https://github.com/AdrianArtacho/META_cue.git
 [submodule "meta_display"]
 	path = meta_display
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_display.git
