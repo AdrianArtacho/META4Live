@@ -101,3 +101,5 @@ url=https://github.com/AdrianArtacho/cc2switch.git
 	url = https://github.com/AdrianArtacho/CC-Decoder.git
 [submodule "CC-Encoder"]
 	url = https://github.com/AdrianArtacho/CC-Encoder.git
+[submodule "META_apckey25"]
+	url = https://github.com/AdrianArtacho/META_apckey25.git
