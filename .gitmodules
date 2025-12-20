@@ -57,7 +57,7 @@ url=https://github.com/AdrianArtacho/META_link.git
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_toggle.git
 [submodule "meta_switch"]
 	path = meta_switch
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_switch.git
+url=https://github.com/AdrianArtacho/META_switch.git
 [submodule "meta_xy"]
 	path = meta_xy
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_xy.git
