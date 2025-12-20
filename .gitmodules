@@ -155,3 +155,6 @@ url=https://github.com/AdrianArtacho/cc2switch.git
 [submodule "meta_locators"]
 	path = meta_locators
 	url = https://github.com/AdrianArtacho/meta_locators.git
+[submodule "meta_sphere"]
+	path = meta_sphere
+	url = https://github.com/AdrianArtacho/meta_sphere.git
