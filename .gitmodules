@@ -129,3 +129,5 @@ url=https://github.com/AdrianArtacho/cc2switch.git
 	url = https://github.com/AdrianArtacho/META_link.git
 [submodule "META_nano"]
 	url = https://github.com/AdrianArtacho/META_nano.git
+[submodule "META_notes"]
+	url = https://github.com/AdrianArtacho/META_notes.git
