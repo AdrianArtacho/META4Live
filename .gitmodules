@@ -1,6 +1,6 @@
 [submodule "cc-decoder"]
 	path = cc-decoder
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/cc-decoder.git
+url=https://github.com/AdrianArtacho/CC-Decoder.git
 [submodule "cc-encoder"]
 	path = cc-encoder
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/cc-encoder.git
