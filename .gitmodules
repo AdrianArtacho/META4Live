@@ -3,7 +3,7 @@
 url=https://github.com/AdrianArtacho/CC-Decoder.git
 [submodule "cc-encoder"]
 	path = cc-encoder
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/cc-encoder.git
+url=https://github.com/AdrianArtacho/CC-Encoder.git
 [submodule "meta_cue"]
 	path = meta_cue
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_cue.git
