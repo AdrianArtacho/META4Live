@@ -63,7 +63,7 @@ url=https://github.com/AdrianArtacho/META_link.git
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_xy.git
 [submodule "meta_pedals"]
 	path = meta_pedals
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_pedals.git
+	url = https://github.com/AdrianArtacho/META_Pedals.git
 [submodule "meta_fetch"]
 	path = meta_fetch
 url=https://github.com/AdrianArtacho/META_fetch.git
