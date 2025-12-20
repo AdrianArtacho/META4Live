@@ -75,7 +75,7 @@ url=https://github.com/AdrianArtacho/META_apckey25.git
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_ecosia.git
 [submodule "meta_cheatsheet"]
 	path = meta_cheatsheet
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_cheatsheet.git
+url=https://github.com/AdrianArtacho/META_cheatsheet.git
 [submodule "meta_focus"]
 	path = meta_focus
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_focus.git
