@@ -45,7 +45,7 @@ url=https://github.com/AdrianArtacho/CC-Encoder.git
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_timer.git
 [submodule "meta_checklist"]
 	path = meta_checklist
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/meta_checklist.git
+url=https://github.com/AdrianArtacho/META_checklist.git
 [submodule "meta_apckey25"]
 	path = meta_apckey25
 url=https://github.com/AdrianArtacho/META_apckey25.git
