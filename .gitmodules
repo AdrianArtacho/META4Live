@@ -164,3 +164,6 @@ url=https://github.com/AdrianArtacho/cc2switch.git
 [submodule "meta_markers"]
 	path = meta_markers
 	url = https://github.com/AdrianArtacho/meta_markers.git
+[submodule "meta_custom"]
+	path = meta_custom
+	url = https://github.com/AdrianArtacho/meta_custom.git
