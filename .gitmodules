@@ -167,3 +167,7 @@ url=https://github.com/AdrianArtacho/cc2switch.git
 [submodule "meta_custom"]
 	path = meta_custom
 	url = https://github.com/AdrianArtacho/meta_custom.git
+[submodule "tools/readme-tools"]
+	path = tools/readme-tools
+	url = https://github.com/AdrianArtacho/readme-tools
+	branch = main
