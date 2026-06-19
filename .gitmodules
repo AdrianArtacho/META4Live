@@ -170,3 +170,7 @@ url=https://github.com/AdrianArtacho/cc2switch.git
 [submodule "tools"]
 	path = tools
 	url = https://github.com/AdrianArtacho/git_tools.git
+[submodule "meta_DJpult"]
+	path = meta_DJpult
+	url = https://github.com/AdrianArtacho/meta_djpult.git
+	branch = main
